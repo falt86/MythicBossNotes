@@ -7,13 +7,13 @@
 ## OptionalDeps: LibSharedMedia-3.0
 
 # Core files first
-MythicBossNotes.lua
-MythicBossNotes_DB.lua
-MythicBossNotes_Chat.lua
-MythicBossNotes_Minimap.lua
-MythicBossNotes_Options.lua
-MythicBossNotes_Helper.lua
-MythicBossNotes_Dungeons.lua
+Core/MythicBossNotes.lua
+Core/MythicBossNotes_DB.lua
+Core/MythicBossNotes_Chat.lua
+Core/MythicBossNotes_Minimap.lua
+Core/MythicBossNotes_Options.lua
+Core/MythicBossNotes_Helper.lua
+Core/MythicBossNotes_Dungeons.lua
 
 # UI modules
 UI/UI_Skin.lua
