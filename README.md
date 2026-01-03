@@ -36,7 +36,7 @@ Designed for speed, clarity, and zero clutter.
 
 ### 🔄 Slash Commands
 /mbn
-/mythicbossnotes
+/mbn help
 
 ---
 
