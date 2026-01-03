@@ -1,0 +1,25 @@
+## Interface: 120000
+## Title: Mythic Boss Notes
+## Notes: Per-dungeon and per-boss notes with auto popup and chat paste
+## Author: Derick Alt
+## Version: 1.1.0
+## SavedVariables: MythicBossNotesDB
+## OptionalDeps: LibSharedMedia-3.0
+
+# Core files first
+MythicBossNotes.lua
+MythicBossNotes_DB.lua
+MythicBossNotes_Chat.lua
+MythicBossNotes_Minimap.lua
+MythicBossNotes_Options.lua
+MythicBossNotes_Helper.lua
+MythicBossNotes_Dungeons.lua
+
+# UI modules
+UI/UI_Skin.lua
+UI/UI_Frame.lua
+UI/UI_Dropdowns.lua
+UI/UI_EditBox.lua
+UI/UI_MarkerBar.lua
+UI/UI_Mode.lua
+UI/UI_API.lua
